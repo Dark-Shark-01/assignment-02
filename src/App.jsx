@@ -6,13 +6,13 @@ import "./App.css";
 function App() {
   const students = [
     {
-      name: "Pratim Das",
-      rollNumber: "231001102255",
+      name: "Pritam Ghora",
+      rollNumber: "231001102159",
       department: "BCA",
       year: "4th Year",
       semester: 7,
       section: "BCA4C",
-      cgpa: 7.9,
+      cgpa: 8.8,
       photo: "/profile.jpg",
     },
     {
